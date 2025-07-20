@@ -1,7 +1,7 @@
 #
 # AzerothCore
 #
-
+lua_scripts
 /conf/*
 !/conf/dist
 /modules/*
